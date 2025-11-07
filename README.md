@@ -26,10 +26,9 @@
 # 💻 Tech Stack: 
 <div align="center" >
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,verilog,vscode,linux,git,github,arduino,matlab" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,verilog,vscode,github,arduino" />
   <br/>
-  <b>Additional Tools:</b> ModelSim • Vivado • Quartus • Synopsys DC • Cadence Virtuoso • KiCAD
-</p>
+ 
   
 # 📊 GitHub Stats:
 <div align="center" >
