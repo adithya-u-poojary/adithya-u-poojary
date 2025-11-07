@@ -10,11 +10,11 @@
 </p>
 
 ### 🙋‍♂️ About Me
-- 👨‍🎓 Studying AI&ML Engineering At <a href="https://www.drait.edu.in/" style="text-decoration: none;">**Dr. Ambedkar Institute Of Technology**</a>
+- 👨‍🎓 Studying Electronics & Instrumentation Engineering At <a href="https://www.drait.edu.in/" style="text-decoration: none;">**Dr. Ambedkar Institute Of Technology**</a>
 
 - 🔭 I’m looking To Contribute to **Open Source**
 
-- 🌱 I'm Currently focusing on **Digital Design Concepts**, **RTL Implementation**, and **Testbench Writing**
+- 🌱 I'm Currently focusing on **Digital Design Concept**, **Verilog-based RTL Development**, and **Testbench Writing**
 
 - 👩‍💻 Know Me More <a href="https://www.linkedin.com/in/adithya-u-poojary" style="text-decoration: none;">LINKEDIN</a>
 
