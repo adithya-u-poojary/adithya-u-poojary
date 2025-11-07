@@ -1,56 +1,58 @@
-
-
-<!--# 👋 Hey, I'm Adithya Poojary  
-
-🎓 **Electronics & Instrumentation Engineering** student at **Dr. Ambedkar Institute of Technology (DR AIT)**  
-💡 Passionate about **RTL Design**, **Embedded Systems**, and **IoT Integration** — blending hardware precision with software intelligence.  
+<h1 align="center">Hi 👋, I'm Adithya Poojary</h1>
+<h3 align="center">Aspiring VLSI & RTL Design Engineer | Electronics & Instrumentation Student at Dr. AIT</h3>
 
 ---
 
-### ⚙️ Areas of Interest  
-- 🧩 **RTL Design & Verification** (Verilog, SystemVerilog, FPGA)  
-- 🔌 **Embedded Systems Development** (ARM, Arduino, STM32)  
-- 🌐 **IoT Systems** — Sensor integration & cloud connectivity  
-- 🧠 **VLSI & Digital System Design**  
-- ⚡ **Hardware-Software Co-design**
+### 🧩 About Me:
+- 🎓 Pursuing **B.E. in Electronics & Instrumentation Engineering** at **Dr. Ambedkar Institute of Technology**
+- 💡 Passionate about **VLSI Design, RTL Coding, and Digital Systems**
+- ⚙️ Learning **Verilog**, **SystemVerilog**, and **FPGA/ASIC Design Fundamentals**
+- 🧠 Exploring **EDA Tools**, **Logic Synthesis**, and **Timing Analysis**
+- 🌱 Currently focusing on **Digital Design Concepts**, **RTL Implementation**, and **Testbench Writing**
+- 💬 Open to learning and collaborating on hardware design and embedded tech
 
 ---
 
-### 🛠️ Tech Stack  
-- **Languages:** C, Verilog, Python, Embedded C  
-- **Hardware Tools:** Xilinx Vivado, ModelSim, Arduino IDE, Keil µVision  
-- **Software Tools:** Git, VS Code, JetBrains, Proteus, MATLAB  
-- **Platforms:** Raspberry Pi, NodeMCU, FPGA boards  
+### 💻 Tech Stack:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,verilog,vscode,linux,git,github,arduino,matlab" />
+  <br/>
+  <b>Additional Tools:</b> ModelSim • Vivado • Quartus • Synopsys DC • Cadence Virtuoso • KiCAD
+</p>
 
 ---
 
-### 🚀 Current Goals  
-- 🔭 Designing RTL modules and testing on FPGA boards  
-- ⚙️ Building IoT prototypes with real-time cloud dashboards  
-- 🧠 Exploring SoC architecture and low-power digital design  
-- 💬 Contributing to open-source embedded projects  
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adithya-poojary&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-poojary&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-### 📫 Connect with Me  
-- 💼 [LinkedIn](https://linkedin.com/in/adithya-poojary)  
-- 🌐 [Portfolio](https://adithyapoojary.me) *(coming soon)*  
-- 📧 adithyapoojary.dev@gmail.com  
+### 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adithya-poojary&theme=darkhub&no-bg=true&no-frame=true" />
+</p>
 
 ---
 
-> “From circuits to code — I aim to bridge the gap between hardware and innovation.” ⚡
+### 📈 Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithya-poojary&theme=tokyo-night" />
+</p>
 
-**adithya-u-poojary/adithya-u-poojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔗 Connect With Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/adithya-u-poojary" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://x.com/AdiPoojary06" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.instagram.com/adithya_u_poojary" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Quote I Follow:
+> "Hardware is the foundation of innovation — RTL is where ideas become silicon."
+
