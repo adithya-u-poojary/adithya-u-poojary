@@ -14,8 +14,7 @@
 
 - 🔭 I’m looking To Contribute to **Open Source**
 
-- 🌱 I'm Currently focusing on **Digital Design Concept**, **Verilog-based RTL Development**, and **Testbench Writing**
-
+- 🌱 I'm Currently focusing on learning the basics of **VLSI design**, **Digital logic fundamentals**,  **Verilog programming**, and **RTL concepts**
 - 👩‍💻 Know Me More <a href="https://www.linkedin.com/in/adithya-u-poojary" style="text-decoration: none;">LINKEDIN</a>
 
 <p align="left">
