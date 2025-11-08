@@ -1,6 +1,5 @@
 <div align="center" >
-  <img width="400" src="<img src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/279c7c2e-332c-47dc-bc68-d1df8f4f64eb" />
-">
+  <img width="400" src="<img src="<img width="800" height="600" alt="image" src="https://pin.it/7t1VDS3Cq">
 </div>
 
 <h1 align="center">Hi 👋, I'm Adithya Poojary </h1>
