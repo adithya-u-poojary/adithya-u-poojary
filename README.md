@@ -1,5 +1,6 @@
 <div align="center" >
-  <img width="400" src="<img src="https://cdn.dribbble.com/userupload/20492997/file/original-c765381db8d4472ba07be8e602129b22.gif">
+  <img width="400" src="<img src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/279c7c2e-332c-47dc-bc68-d1df8f4f64eb" />
+">
 </div>
 
 <h1 align="center">Hi 👋, I'm Adithya Poojary </h1>
