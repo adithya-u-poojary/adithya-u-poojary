@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width="400" src="<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863">
+  <img width="400" src="<img src="https://cdn.dribbble.com/userupload/20492997/file/original-c765381db8d4472ba07be8e602129b22.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Adithya Poojary </h1>
