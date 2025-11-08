@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width="400" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI1NzI5MjMsIm5iZiI6MTc2MjU3MjYyMywicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTA4VDAzMzAyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmN2NiZTlkNzkwZjc1MWEyN2EzYjgxYTk3ZjY1OTMyYWQ3ZjAzODU3YWM4Y2FjZGQ4NTFmODkwMDEyNzY3MzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pwZeqbv_XrdM7Q7i7dt3tgfbh0KCxeKeP832-gQSy88">
+  <img width="400" src="<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863">
 </div>
 
 <h1 align="center">Hi 👋, I'm Adithya Poojary </h1>
