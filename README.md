@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width="400" src="<img src="<img width="800" height="600" alt="image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo3ZXN0ZzN4MzE3eW8wd3Z2b3g3eTA3eGM4bWV2aDF0dXRsM2JydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
+  <img width="400" src="<img src="<img width="800" height="600" alt="image" src="<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500"">
 </div>
 
 <h1 align="center">Hi 👋, I'm Adithya Poojary </h1>
