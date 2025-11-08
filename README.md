@@ -1,5 +1,5 @@
 <div align="center" >
- <img width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQzcXVyaDNuZmhoNjdpNWMycDI3NGR6emx4czhjZGo1ZXg3bTNlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
+ <img width="400" src="https://github.com/Rakesh3596/Rakesh3596/assets/101379879/56552622-0b0e-4eb6-82a5-34c61304d8d4">
 </div>
 
 <h1 align="center">Hi 👋, I'm Adithya Poojary </h1>
